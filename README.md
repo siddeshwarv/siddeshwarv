@@ -21,7 +21,7 @@ Skilled in applying key **Object-Oriented Principles (OOP)** and **Design Patter
 
 ## 🛠️ Projects
 
-### ⚕️ [Healthcare Microservices System](https://github.com/siddeshwarv)  
+### ⚕️ [Healthcare Microservices System](https://github.com/siddeshwarv/patient-managment)  
 *A robust backend system with 5 microservices (Patient, Billing, Analytics, Auth, Gateway) designed using **event-driven architecture** and clean **microservices principles***  
 - 🔗 Tech: Spring Boot, gRPC, Kafka, Docker, JWT, PostgreSQL  
 - 🧩 Applied **modular design** with proper separation of concerns  
@@ -29,7 +29,7 @@ Skilled in applying key **Object-Oriented Principles (OOP)** and **Design Patter
 - 🔐 Secured endpoints using JWT and Spring Security  
 - 🧠 Employed **Factory Pattern** for service creation and **Strategy Pattern** for request handling logic
 
-### 🛒 Flipkart Daily – Inventory Management System  
+### 🛒 [Flipkart Daily – Inventory Management System](https://github.com/siddeshwarv/flipkart-daily-inventory-system)  
 *A clean Spring Boot architecture simulating a real-world inventory backend system*  
 - ⚙️ Structured using **Repository**, **Singleton**, and **Strategy Design Patterns**  
 - 🔍 Includes advanced filtering, search logic, and modular layers (Controller → Service → DAO)  
